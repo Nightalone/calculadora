@@ -1,6 +1,6 @@
 # Calculadora
 
-App de calculadora feita com _**HTML**_, _**CSS**_ e _**JavaScript**_.
+App calculadora feita com _**HTML**_, _**CSS**_ e _**JavaScript**_.
 
 </br>
 
